@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankhaniya Khushal</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Full Stack WebDevelopment**
+- 🌱 I’m currently working on **Full Stack WebDevelopment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
