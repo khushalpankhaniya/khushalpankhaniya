@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushal Pankhaniya</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 - 🌱 I’m currently working on **Full Stack WebDevelopment**
 
