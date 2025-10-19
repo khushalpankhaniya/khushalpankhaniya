@@ -1,7 +1,7 @@
 # Hi, I'm Khushal Pankhaniya 👋
 
 ## About Me
-I'm a software engineer building web applications and backend services. I focus on clean, maintainable code, performant frontends, and reliable APIs. I enjoy learning new tech, contributing to open source, and improving developer workflows.
+I'm a Aspiring Software Developer building web applications and backend services. I focus on clean, maintainable code, performant frontends, and reliable APIs. I enjoy learning new tech, contributing to open source, and improving developer workflows.
 
 ---
 
