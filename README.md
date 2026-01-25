@@ -1,101 +1,45 @@
 # Hi, I'm Khushal Pankhaniya 👋
 
 ## About Me
-I'm a Aspiring Software Developer building web applications and backend services. I focus on clean, maintainable code, performant frontends, and reliable APIs. I enjoy learning new tech, contributing to open source, and improving developer workflows.
+I am an aspiring Software Developer with a strong interest in building scalable web applications and backend services. I focus on writing clean, maintainable code, developing performant user interfaces, and designing reliable APIs. I am passionate about learning new technologies, contributing to open-source projects, and continuously improving development workflows.
 
 ---
 
-<!-- Frontend / Backend / Languages / Tools blocks -->
-<h3 align="left">Frontend</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+## 🚀 Tech Stack
 
-<h3 align="left">Backend & Databases</h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  </a>
-</p>
+### ⚙️ Backend & Database
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 
-<h3 align="left">Tools & Editor</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a title="VS Code: I use editor with common extensions & custom cursor/theme" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/cursor.svg" alt="cursor" width="40" height="40"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlifycom/netlifycom-icon.svg" alt="netlify" width="40" height="40"/>
-  </a>
-</p>
+### 💻 Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"> <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white">
+
+### 🛠 Tools & Editor
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white">
 
 ---
-## Contact
+
+## 💼 Open to Work
+I am actively seeking opportunities in:
+- **Frontend Development**
+- **Backend Development**
+- **Full-Stack Development**
+- **Software Engineering Internships**
+- **Open Source Contributions**
+
+---
+
+## 📫 Contact
 
 <a href="https://github.com/khushalpankhaniya" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/khushal-pankhaniya-abb81b224/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
 </a>
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=khushalpankhaniya&color=blue)
