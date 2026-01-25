@@ -41,7 +41,9 @@ Frontend • Backend • Full-Stack • Internships • Open Source
 ---
 
 ## 📫 Contact
-[GitHub](https://github.com/khushalpankhaniya) • [LinkedIn](https://www.linkedin.com/in/khushal-pankhaniya-abb81b224/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khushalpankhaniya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-pankhaniya-abb81b224/)
 
 ---
 
