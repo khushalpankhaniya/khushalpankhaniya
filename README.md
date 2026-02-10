@@ -21,20 +21,6 @@ I am an aspiring Software Developer with a strong interest in building scalable 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🚌 **AI Sleeper Bus Booking System** | Backend booking system with real-time seat allocation, meal add-ons, cancellation & booking probability logic. | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"> | [GitHub](https://github.com/khushalpankhaniya/sleeper-bus-booking-system) |
-| 🎒 **Lost & Found System** | Hackathon project with AI chatbot, secure messaging, image uploads & item matching. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white"> | — |
-| 🗳 **E-Vote Manager** | Role-based voting & candidate management system. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"> | [GitHub](https://github.com/khushalpankhaniya/E-Vote-Manager) |
-| 🛒 **NeoMart** | E-commerce app with filtering and cart. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white"> | — |
-| 🎬 **FilmFusion** | Movie discovery platform with auth and multilingual UI. | <img src="https://img.shields.io/badge/React(Vite)-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Clerk-3B49DF?logo=clerk&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white"> | — |
-| 🔐 **JWTSecureLogin** | JWT-based authentication system. | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"> | [GitHub](https://github.com/khushalpankhaniya/JWTSecureLogin) |
-| ⚗ **Periodic Table API** | REST API for chemical element data. | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"> | [GitHub](https://github.com/khushalpankhaniya/Periodic-Table-API) |
-
----
-
 ## 💼 Open to Work
 Frontend • Backend • Full-Stack • Internships • Open Source
 
