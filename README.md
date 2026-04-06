@@ -1,7 +1,7 @@
 # Hi, I'm Khushal Pankhaniya 👋
 
 ## About Me
-I am an aspiring Software Developer with a strong interest in building scalable web applications and backend services. I focus on writing clean, maintainable code, developing performant user interfaces, and designing reliable APIs. I am passionate about learning new technologies, contributing to open-source projects, and continuously improving development workflows.
+I am a Software Developer with a strong interest in building scalable web applications and backend services. I focus on writing clean, maintainable code, developing performant user interfaces, and designing reliable APIs. I am passionate about learning new technologies, contributing to open-source projects, and continuously improving development workflows.
 
 ---
 
