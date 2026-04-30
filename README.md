@@ -1,3 +1,5 @@
+![Banner](ChatGPT%20Image%20Apr%2030%2C%202026%2C%2010_59_46%20AM.png)
+
 # Hi, I'm Khushal Pankhaniya 👋
 
 ## About Me
